@@ -1,0 +1,12 @@
+john.doe@gmail.com
+JANE.SMITH@YAHOO.COM
+alex_brown@hotmail.com
+mary.jones@outlook.com
+JOHN.DOE@GMAIL.COM
+lucas_lee@protonmail.com
+emily_white@icloud.com
+alex_brown@hotmail.com
+SOPHIA.TAYLOR@GMAIL.COM
+daniel_king@yahoo.com
+michael.scott@dundermifflin.com
+EMILY_WHITE@ICLOUD.COM

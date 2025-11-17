@@ -1,0 +1,4 @@
+what is an oscillator
+how oscillator circuits generate continuous waveforms without external input.
+Barkhausen Criterion for sustained oscillation
+Hartley Osicllator vs Colpitt's oscillator

@@ -1,0 +1,2 @@
+Hard but not impossible
+Every tensor is a matrix but not every matrix is a tensor
